@@ -46,7 +46,7 @@ function generatePassword(length = 12) {
 
 ## Demo
 
-> You can test the generator here: [Live Demo](#)
+> You can test the generator here: [webxapp002.netlify.app](#)
 
 ## Installation
 
